@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4c92b74732a04b4e875f5c9309d810a1/artifacts
+deleted_time: 1733725989162
+end_time: 1733725451912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4c92b74732a04b4e875f5c9309d810a1
+run_name: skillful-robin-948
+run_uuid: 4c92b74732a04b4e875f5c9309d810a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733725406956
+status: 4
+tags: []
+user_id: Paarth

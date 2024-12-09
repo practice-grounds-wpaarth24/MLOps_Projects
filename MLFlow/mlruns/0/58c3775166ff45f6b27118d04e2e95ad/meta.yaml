@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/58c3775166ff45f6b27118d04e2e95ad/artifacts
+deleted_time: 1733725989177
+end_time: 1733725981658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 58c3775166ff45f6b27118d04e2e95ad
+run_name: clumsy-bee-609
+run_uuid: 58c3775166ff45f6b27118d04e2e95ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733725504478
+status: 4
+tags: []
+user_id: Paarth

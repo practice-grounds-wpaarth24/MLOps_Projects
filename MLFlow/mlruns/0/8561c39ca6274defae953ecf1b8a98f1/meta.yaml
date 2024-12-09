@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8561c39ca6274defae953ecf1b8a98f1/artifacts
+deleted_time: 1733725989141
+end_time: 1733724968454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8561c39ca6274defae953ecf1b8a98f1
+run_name: gregarious-fish-388
+run_uuid: 8561c39ca6274defae953ecf1b8a98f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733724968330
+status: 4
+tags: []
+user_id: Paarth
