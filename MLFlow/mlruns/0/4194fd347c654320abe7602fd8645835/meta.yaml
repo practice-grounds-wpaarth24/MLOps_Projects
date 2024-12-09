@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4194fd347c654320abe7602fd8645835/artifacts
+end_time: 1733728223459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4194fd347c654320abe7602fd8645835
+run_name: thundering-calf-176
+run_uuid: 4194fd347c654320abe7602fd8645835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733727497490
+status: 3
+tags: []
+user_id: Paarth
