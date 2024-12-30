@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/0/ed52a938f5a94bc882d23509dd3fbf90/artifacts
+end_time: 1735547752236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed52a938f5a94bc882d23509dd3fbf90
+run_name: skittish-elk-613
+run_uuid: ed52a938f5a94bc882d23509dd3fbf90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735547738170
+status: 3
+tags: []
+user_id: Paarth

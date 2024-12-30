@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/0/9e5359f90f294e8089b319db709c41e4/artifacts
+end_time: 1735547652242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e5359f90f294e8089b319db709c41e4
+run_name: rumbling-moth-432
+run_uuid: 9e5359f90f294e8089b319db709c41e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735547628330
+status: 3
+tags: []
+user_id: Paarth

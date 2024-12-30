@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/0/c39e209b240d47ae8df00b67bbe41601/artifacts
+end_time: 1735547437453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c39e209b240d47ae8df00b67bbe41601
+run_name: indecisive-jay-3
+run_uuid: c39e209b240d47ae8df00b67bbe41601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735547431664
+status: 4
+tags: []
+user_id: Paarth

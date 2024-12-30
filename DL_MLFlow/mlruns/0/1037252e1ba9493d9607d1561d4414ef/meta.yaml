@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/0/1037252e1ba9493d9607d1561d4414ef/artifacts
+end_time: 1735547498324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1037252e1ba9493d9607d1561d4414ef
+run_name: capable-snake-671
+run_uuid: 1037252e1ba9493d9607d1561d4414ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735547492227
+status: 4
+tags: []
+user_id: Paarth

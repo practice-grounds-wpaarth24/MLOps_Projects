@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/0/2e371bbe24f74f7791bf128c35e6ead7/artifacts
+end_time: 1735547489026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e371bbe24f74f7791bf128c35e6ead7
+run_name: sassy-steed-146
+run_uuid: 2e371bbe24f74f7791bf128c35e6ead7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735547483005
+status: 4
+tags: []
+user_id: Paarth
