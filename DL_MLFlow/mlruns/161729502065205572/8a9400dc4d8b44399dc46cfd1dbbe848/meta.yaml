@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/8a9400dc4d8b44399dc46cfd1dbbe848/artifacts
+end_time: 1735837224366
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: 8a9400dc4d8b44399dc46cfd1dbbe848
+run_name: carefree-fish-843
+run_uuid: 8a9400dc4d8b44399dc46cfd1dbbe848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837216865
+status: 3
+tags: []
+user_id: Paarth

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/f10565e63315496185a1990cc6c2452d/artifacts
+end_time: 1735837345160
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: f10565e63315496185a1990cc6c2452d
+run_name: big-tern-612
+run_uuid: f10565e63315496185a1990cc6c2452d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837337243
+status: 3
+tags: []
+user_id: Paarth

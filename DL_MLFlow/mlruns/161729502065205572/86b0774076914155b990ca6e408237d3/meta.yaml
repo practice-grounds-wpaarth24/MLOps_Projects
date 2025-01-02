@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/86b0774076914155b990ca6e408237d3/artifacts
+end_time: 1735837351636
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: 86b0774076914155b990ca6e408237d3
+run_name: trusting-wolf-989
+run_uuid: 86b0774076914155b990ca6e408237d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837310109
+status: 3
+tags: []
+user_id: Paarth

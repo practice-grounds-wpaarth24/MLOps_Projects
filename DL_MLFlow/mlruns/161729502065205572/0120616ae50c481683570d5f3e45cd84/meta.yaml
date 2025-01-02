@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/0120616ae50c481683570d5f3e45cd84/artifacts
+end_time: 1735837136126
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: 0120616ae50c481683570d5f3e45cd84
+run_name: suave-grouse-462
+run_uuid: 0120616ae50c481683570d5f3e45cd84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837118424
+status: 3
+tags: []
+user_id: Paarth

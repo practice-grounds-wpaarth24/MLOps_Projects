@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/2934a44154f24a4ebaaa6205cf2826c6/artifacts
+end_time: 1735837216840
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: 2934a44154f24a4ebaaa6205cf2826c6
+run_name: industrious-owl-353
+run_uuid: 2934a44154f24a4ebaaa6205cf2826c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837208465
+status: 3
+tags: []
+user_id: Paarth

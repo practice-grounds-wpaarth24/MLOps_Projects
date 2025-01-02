@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/dfd99489d2204296860d4f0e5bb3f9c3/artifacts
+end_time: 1735837337214
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: dfd99489d2204296860d4f0e5bb3f9c3
+run_name: upbeat-shark-203
+run_uuid: dfd99489d2204296860d4f0e5bb3f9c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837329774
+status: 3
+tags: []
+user_id: Paarth

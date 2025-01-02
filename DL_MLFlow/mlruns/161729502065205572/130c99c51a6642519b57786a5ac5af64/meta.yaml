@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/130c99c51a6642519b57786a5ac5af64/artifacts
+end_time: 1735837144451
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: 130c99c51a6642519b57786a5ac5af64
+run_name: awesome-koi-955
+run_uuid: 130c99c51a6642519b57786a5ac5af64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837136159
+status: 3
+tags: []
+user_id: Paarth

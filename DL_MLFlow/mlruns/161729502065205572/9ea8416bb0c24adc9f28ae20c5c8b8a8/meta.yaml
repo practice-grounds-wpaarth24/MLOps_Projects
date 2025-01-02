@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/9ea8416bb0c24adc9f28ae20c5c8b8a8/artifacts
+end_time: 1735837321928
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: 9ea8416bb0c24adc9f28ae20c5c8b8a8
+run_name: melodic-croc-458
+run_uuid: 9ea8416bb0c24adc9f28ae20c5c8b8a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837310254
+status: 3
+tags: []
+user_id: Paarth

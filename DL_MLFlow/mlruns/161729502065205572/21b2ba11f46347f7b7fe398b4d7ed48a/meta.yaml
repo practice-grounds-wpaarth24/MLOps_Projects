@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/21b2ba11f46347f7b7fe398b4d7ed48a/artifacts
+end_time: 1735837168100
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: 21b2ba11f46347f7b7fe398b4d7ed48a
+run_name: auspicious-cub-920
+run_uuid: 21b2ba11f46347f7b7fe398b4d7ed48a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837118146
+status: 3
+tags: []
+user_id: Paarth

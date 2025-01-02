@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/ea20f658d6d7428e9e628168892a43ed/artifacts
+end_time: 1735837240929
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: ea20f658d6d7428e9e628168892a43ed
+run_name: gentle-tern-349
+run_uuid: ea20f658d6d7428e9e628168892a43ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837233020
+status: 3
+tags: []
+user_id: Paarth

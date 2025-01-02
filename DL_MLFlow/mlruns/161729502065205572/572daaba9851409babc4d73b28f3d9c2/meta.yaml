@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paarth/Desktop/MLOps/DL_MLFlow/mlruns/161729502065205572/572daaba9851409babc4d73b28f3d9c2/artifacts
+end_time: 1735837153423
+entry_point_name: ''
+experiment_id: '161729502065205572'
+lifecycle_stage: active
+run_id: 572daaba9851409babc4d73b28f3d9c2
+run_name: indecisive-skunk-163
+run_uuid: 572daaba9851409babc4d73b28f3d9c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735837144482
+status: 3
+tags: []
+user_id: Paarth
